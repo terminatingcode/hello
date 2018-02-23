@@ -8,4 +8,4 @@ require (
 
 exclude "rsc.io/sampler" v1.99.99
 
-replace "rsc.io/quote" v1.5.2 => "../quote"
+replace "rsc.io/quote" v1.5.2 => "github.com/terminatingcode/quote" v0.0.0-myfork
